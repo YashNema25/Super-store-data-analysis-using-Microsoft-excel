@@ -1,10 +1,10 @@
 # Super-store-data-analysis-(Interactive Dashboard creation using MS Excel)
 
-Project Objective
+# Project Objective
 
 Super Store wants to create an annual sales report for 2022. So that, manager can understand their customers and grow more sales in 2023.
 
-8 Business questions:
+# 8 Business questions
 
 1. Compare the sales and orders using single chart.
 2. Which month got the highest sales and orders ?
@@ -15,16 +15,23 @@ Super Store wants to create an annual sales report for 2022. So that, manager ca
 7. Which channel is contributing to maximum sales.
 8. Highest selling catgory ?
 
-
-Insights:
-
-1. Women are more likely to buy compared to men (~65%)
-2. Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states (~35%)
-3. Adult age group (30-49 yrs) is max contributing (~50%)
-4. Amazon, Flipkart and Myntra channels are max contributing (~80%)
+# Process
+~ Verify data for any missing values and anomalies, and sort out the same.
+~ Made sure data is consistent and clean with respect to data type, data format and values used.
+~ Created pivot tables according to the questions asked.
+~ Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 
-Final conclusion to improve Super store sales:
+# Projecct Insight
 
-Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon , Flipkart and Myntra.
+1. Women customers are more likely to buy products compared to men (~65%).
+2. The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+3. The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+4. The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+5. More than 90% of the products delivered.
+
+
+# Final conclusion to improve Super store sales:
+
+To improve the sales of Super Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
 

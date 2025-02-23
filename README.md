@@ -1,4 +1,4 @@
-# Super-store-data-analysis-using-Microsoft-excel
+# Super-store-data-analysis-(Interactive Dashboard creation using MS Excel)
 
 Project Objective
 
